@@ -2,4 +2,4 @@
  Inicializar este repositório com  README.  
 Olá, este éo inicio do meu repositório.  
 Sou dev iniciante em Python. 
-Fique vontade para editarmeus codigos. 
+Fique vontade para editar meus codigos. 
